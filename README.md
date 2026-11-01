@@ -8,8 +8,8 @@ A Programming Language
 5. pkg install clang
 6. paste:
 cd /storage/emulated/0/<path>/main/
-clang++ main.cpp -o LMB#+
-mkdir -p ~/bin && cp './LMB#+' ~/bin/ && chmod +x ~/bin/LMB#+ && grep -qxF 'export PATH="$HOME/bin:$PATH"' ~/.bashrc || echo 'export PATH="$HOME/bin:$PATH"' >> ~/.bashrc; source ~/.bashrc
+clang++ main.cpp -o LNB
+mkdir -p ~/bin && cp './LNB' ~/bin/ && chmod +x ~/bin/LMB#+ && grep -qxF 'export PATH="$HOME/bin:$PATH"' ~/.bashrc || echo 'export PATH="$HOME/bin:$PATH"' >> ~/.bashrc; source ~/.bashrc
 
 for compiling:
-LMB#+ <file_name>.LMB
+LNB <file_name>.LNB
