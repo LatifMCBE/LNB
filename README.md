@@ -1,4 +1,4 @@
-# LMB#+
+# LNB
 A Programming Language
 
 1. Download .zip file
